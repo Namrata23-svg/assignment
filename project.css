@@ -1,0 +1,223 @@
+body{
+	background-color: #ffffcc;
+	
+	
+}
+.text{
+	font-size: 5px;
+	text-align: center;
+	list-style: none;
+}
+.image1{
+	position: relative;
+	top: -16px;
+	right: -406px;
+	
+}
+.image2{
+	float: left;
+	width: 500px;
+	height: 700px;
+}
+.image3{
+	width: 700px;
+	height: 500px;
+}
+p.text{
+	text-align: left;
+}
+p.box{
+	text-align: center;
+	font-size: 14px;
+}
+p.head{
+	text-align: center;
+	font-size: 16px;
+}
+p.musk{
+	text-align: center;
+	font-weight: bolder;
+	font-size: 17px;
+}
+p.title{
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+
+}
+p.ht{
+	text-align: center;
+	font-size: 13px;
+	font-weight: bolder;
+}
+
+
+footer{
+	background-color:  #ff4d4d;
+	width: 100vw;
+	display: flex;
+	align-items: auto;
+	box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 3000px){
+	.muskan{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 3000px){
+	.image3{
+		max-width: 100%;
+		height: auto;
+	}
+}
+@media screen and (max-width: 3000px){
+	.head{
+		width: 100vw;
+	}
+}
+@media screen and (max-width: 1200px){
+
+.item{
+	font-size: 2vw;
+
+}
+}
+@media screen and (max-width: 1200px){
+
+.image1{
+	width: 75%;
+	position: absolute;
+    left: 80px;
+     text-align: center;
+     top: -36px;
+     font-size: 15px;
+     clear: both;
+     height: auto;
+     white-space: nowrap;
+	
+
+}
+}
+.text{
+	font-size: 2vw;
+}
+.boss{
+	
+	position: relative;
+	left: 350px;
+	bottom: 30px;
+}
+.facebook{
+	display: block;
+	position: absolute;
+	left: 35px;
+	bottom: 30px;
+
+
+
+	
+}
+.hug{
+	text-align: right;
+	position: relative;
+	left: 496px;
+	bottom:35px;
+}
+.Group{
+	
+	display: block;
+	position: absolute;
+	left: 40px;
+	bottom:0px;
+    
+}
+
+.calling{
+	position: absolute;
+	left: 40px;
+	bottom: -1300px;
+}
+@media screen and (max-width: 1200px){
+	.item{
+		position: absolute;
+		top: 200px;
+		left: 650px;
+		font-size: 19px;
+	}
+}
+@media screen and (max-width: 1200px){
+
+	li.big{
+		position: absolute;
+		top: 500px;
+		left: 1000px;
+		
+	}
+}
+@media screen and (max-width: 1200px){
+	li.ph{
+		position: absolute;
+		top: 800px;
+		left: 1000px;
+		
+	}
+}
+@media screen and (max-width: 1200px){
+	
+	}
+		
+
+		
+	}
+
+@media screen and (max-width: 1200px){
+	li.text{
+		position: absolute
+		top:400px;
+	}
+	
+	}
+	
+		
+	}
+}@media screen and (max-width: 1200px){
+	
+
+
+
+
+@media screen and (max-width: 1200px){
+	
+		
+		
+	}
+}@media screen and (max-width:1200px){
+	.calling{
+		position: absolute;
+		top: -3060px;
+		left: 20px;
+
+	}
+		
+		
+		
+	}
+}
+@media screen and (max-width: 1200px){
+	footer{
+		width: 100vw;
+		height: auto;
+		
+		
+		background-color:  #ff4d4d;
+		
+	}
+}
+.calling{
+	   position: absolute;
+	   top: 1960px;
+}
